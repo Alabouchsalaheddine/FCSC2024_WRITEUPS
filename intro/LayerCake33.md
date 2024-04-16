@@ -29,4 +29,4 @@ Navigate to the directory containing the extracted files and locate the followin
 View the contents of the hello file to find the flag.
 
 - **Flag:** 
-FCSC{a1240d90ebeed7c6c422969ee529cc3e1046a3cf337efe51432e49b1a27c6ad2}
+FCSC{c12d9a48f1635354fe9c32b216f144ac66f7b8466a5ac82a35aa385964ccbb61}
