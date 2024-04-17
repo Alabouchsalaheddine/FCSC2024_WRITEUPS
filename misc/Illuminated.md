@@ -32,9 +32,7 @@ We can notice that sometimes we have some 'FL' values. Since I should have only 
 
 See the notebook : Illuminated.ipynb for code
 
-<video controls width="500">
-  <source src="video/Illuminated.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Alt Text](images/Illuminated_flag.gif)
+
 
 **Flag**: FCSC{L1ghtD3sign3rCr-gg!}
