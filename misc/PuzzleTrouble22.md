@@ -1,4 +1,4 @@
-# Puzzle Trouble 1/2
+# Puzzle Trouble 2/2
 
 ## Challenge Overview
 - **Original French description:** On vous demande de retrouver le flag dans ce bazar de tuiles ! Il paraît qu'elles n'ont pas été retournées...
