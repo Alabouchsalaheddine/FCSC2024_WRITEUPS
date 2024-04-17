@@ -1,4 +1,4 @@
-# FCSC2023_WRITEUPS
+# FCSC2024_WRITEUPS
 
 <p align="center">
   <img src="images/2020-fcsc-logo_min.jpg">
